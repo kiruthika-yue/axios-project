@@ -1,0 +1,21 @@
+{
+  "code": 200,
+  "status": true,
+  "data": {
+    "loginBg": "/assets/loginBg.png",
+    "logoInfo": {
+      "logoPic": "/assets/logo.png",
+      "logoSite": {
+        "top": 100,
+        "right": 100
+      }
+    },
+    "loginFrame": {
+      "loginBgColor": "#eee",
+      "loginBgOpcity": 0.9,
+      "loginFontColor": "#a4a2a2",
+      "loginHighLight": "#4fa6ed"
+    },
+    "footContent": "版权所有 北京瑞智康诚科技有限公司 2021"
+  }
+}
